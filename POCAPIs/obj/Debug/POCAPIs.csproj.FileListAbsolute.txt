@@ -1,0 +1,17 @@
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\POCAPIs.dll.config
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\POCAPIs.dll
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\POCAPIs.pdb
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\Newtonsoft.Json.dll
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\System.Net.Http.Formatting.dll
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\System.Web.Http.dll
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\System.Web.Http.WebHost.dll
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\Newtonsoft.Json.xml
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\System.Net.Http.Formatting.xml
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\System.Web.Http.xml
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\bin\System.Web.Http.WebHost.xml
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\obj\Debug\POCAPIs.csprojResolveAssemblyReference.cache
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\obj\Debug\POCAPIs.csproj.CoreCompileInputs.cache
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\obj\Debug\POCAPIs.dll
+C:\Users\shkand\source\repos\POCAPIsSolution\POCAPIs\obj\Debug\POCAPIs.pdb
